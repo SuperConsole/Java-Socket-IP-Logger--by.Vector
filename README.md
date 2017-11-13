@@ -1,4 +1,1 @@
-# Java_Socket_and_log_by_IP
-# Java Socket
-# Java IP Logger
-# *Only raw File
+Server.javaのIPロガーの部分をtxtファイルではなくVectorで処理するように変更した。95%くらい端折った
