@@ -1,4 +1,4 @@
-// このファイルはダミー。見ればわかるがそのままでは使えない。
+// このファイルはダミー
 import java.util.*;//Vectorを使うためインポート
 class ipLogger{
 	// ここから下をコピ、Server.javaのrun()内のtry前にペ。
