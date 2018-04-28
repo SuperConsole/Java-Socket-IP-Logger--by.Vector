@@ -1,1 +1,2 @@
-95%くらい端折った。
+only 5% of all.
+95% has lost.
